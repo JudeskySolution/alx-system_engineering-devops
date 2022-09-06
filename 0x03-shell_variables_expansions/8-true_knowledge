@@ -1,2 +1,2 @@
-#!/bin/bas
-echo -e $((128 + TRUEKNOWLEDGE))h
+#!/bin/bash
+echo -e $((128 + TRUEKNOWLEDGE))
